@@ -2,3 +2,5 @@ Assignments for my Artifical Intelligence class
 --------------------------------------------------------------------------------------------------------
 
 Assignment 1: Implement a Breadth-First Search algorithm to solve a puzzle game
+
+Assignment 2: Implement Uniform-Cost Search and A* search to estimate optimal path on a map with varying costs
